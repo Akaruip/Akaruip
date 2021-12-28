@@ -1,7 +1,7 @@
 ### Make sure your are ready!
 
  - 🌱 I’m currently learning Python, HTML e CSS
- - 🔭 I’m currently working on full stack
+ - 🔭 I’m currently working on website
 
 <div align="center">
   <a href="https://github.com/Akaruip">
